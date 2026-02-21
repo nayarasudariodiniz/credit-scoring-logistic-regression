@@ -10,9 +10,12 @@
 ![Streamlit](https://img.shields.io/badge/Streamlit-%23FF4B4B.svg?style=for-the-badge&logo=Streamlit&logoColor=white)
 ![Status](https://img.shields.io/badge/Status-Concluído-brightgreen?style=for-the-badge)
 
+<<<<<<< HEAD
 Contato:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nayarasudariodiniz/)
 
+=======
+>>>>>>> 61211c0 (feat: add final model and streamlit app)
 # Credit Scoring com Regressão Logística 💳
 
 Este repositório contém um projeto completo de **Credit Scoring**, focado em prever a probabilidade de inadimplência superior a 90 dias. O projeto abrange desde o saneamento de dados reais até a implementação de um modelo preditivo escalonado e balanceado, disponível via interface interativa.
@@ -61,4 +64,8 @@ Após o ajuste de hiperparâmetros e balanceamento de classes, o modelo atingiu:
     streamlit run app.py
 
 ___
+<<<<<<< HEAD
 Nota sobre os dados: Para rodar o treinamento no notebook, é necessário baixar os arquivos originais do Kaggle (cs-training.csv) e garantir a execução dos scripts de pré-processamento.
+=======
+Nota sobre os dados: Para rodar o treinamento no notebook, é necessário baixar os arquivos originais do Kaggle (cs-training.csv) e garantir a execução dos scripts de pré-processamento.
+>>>>>>> 61211c0 (feat: add final model and streamlit app)
