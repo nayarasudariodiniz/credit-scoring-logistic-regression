@@ -61,8 +61,5 @@ Após o ajuste de hiperparâmetros e balanceamento de classes, o modelo atingiu:
     streamlit run app.py
 
 ___
-<<<<<<< HEAD
+
 Nota sobre os dados: Para rodar o treinamento no notebook, é necessário baixar os arquivos originais do Kaggle (cs-training.csv) e garantir a execução dos scripts de pré-processamento.
-=======
-Nota sobre os dados: Para rodar o treinamento no notebook, é necessário baixar os arquivos originais do Kaggle (cs-training.csv) e garantir a execução dos scripts de pré-processamento.
->>>>>>> 61211c0 (feat: add final model and streamlit app)
